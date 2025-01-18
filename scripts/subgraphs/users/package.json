@@ -9,7 +9,7 @@
   "dependencies": {
     "@apollo/server": "4.11.2",
     "@apollo/subgraph": "2.9.3",
-    "@faker-js/faker": "8.4.1",
+    "@faker-js/faker": "9.4.0",
     "cors": "2.8.5",
     "express": "4.21.1",
     "express-rate-limit": "7.4.1",
